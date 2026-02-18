@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>    <root><err Type="0" Desc="Basarili"></err>
+                        <Kur Adi="Dolar"  KisaAdi="USD" sembol="$"  degeri="43.7606"></Kur>
+                                <Kur Adi="EURO"  KisaAdi="EUR" sembol="€"  degeri="51.7906"></Kur>
+                                <Kur Adi="Vadeli Satış Oranı"  KisaAdi="" sembol=""  degeri="0.0000"></Kur>
+                     </root>
+    
